@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     author='ZouYJ',
     author_email='boyzouyj@gmail.com',
-    url='https://github.com/boy-zyj/joiner-python',
+    url='https://github.com/boy-zyj/joiner-python.git',
     py_modules=['joiner'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
